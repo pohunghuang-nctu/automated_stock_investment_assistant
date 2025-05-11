@@ -1,0 +1,2 @@
+[E 2025-05-11 10:38:49,611 E:\git_repos\ai_with_personal_memory\.venv\Lib\site-packages\shioaji\utils.py:49:raise_resp_error] {'status': {'status_code': 406}, 'response': {'detail': 'Account Not Acceptable.'}}
+[E 2025-05-11 10:51:20,654 E:\git_repos\ai_with_personal_memory\.venv\Lib\site-packages\shioaji\utils.py:49:raise_resp_error] {'status': {'status_code': 406}, 'response': {'detail': 'Account Not Acceptable.'}}
